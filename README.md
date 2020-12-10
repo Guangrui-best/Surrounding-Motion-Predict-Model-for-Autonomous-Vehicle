@@ -10,7 +10,7 @@
 
 ## Introduction
 
--  Predict surrounding agents motions of the autonomous vehicle over 5s given their historical 1s positions
+- Predict surrounding agents motions of the autonomous vehicle over 5s given their historical 1s positions
 - Useful for planning self driving vehicle’s movement
 - Deep learning techniques (CNN: Mixnet) + Ensemble Models
 - Choose negative multi-log-likelihood as evaluate metric
