@@ -40,5 +40,5 @@
           |
            - test-cnn.ipynb
 ```
-## Report
+## Report details
 - The final project report and presentation slides are under the directory report
